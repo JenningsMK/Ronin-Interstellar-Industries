@@ -30,16 +30,16 @@ What I proposal is we remove the **member** and create the following roles
 
 The name of three first titles are not finalised. Other titles should be created as we need them and one person can have more than one title.
 
-### Apprentice
+### Associate
 This title should allow members to place items within the **donations** hanger and the ability to look inside the **shared** 
 hanger. This is to stop a new member from taking everything and running off with it. This does not mean they can't ask 
 for items from other members who should be able to give then the request item.   
 
-### Trainer
+### Journeyman
 This Title should allow members to take from the **shared** hanger as well as place items within **donations** hanger as well. 
 It is design for members that we believe we can trust as well as members that have shown willingness to help the corp and other members.
 
-### Senior trainer
+### Kinsman
 This title has the same permission as **Trainer** but also allows access to the **small space hanger** to hand out beginner fitted ships to **apprentice**
 and the **Item storage** hanger where they can take what they need for person use.
 
